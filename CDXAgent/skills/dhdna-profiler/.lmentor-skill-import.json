@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "从任何文本中提取认知模式和思维指纹。当用户想要分析某人的思维方式、了解认知风格、个人资料写作或演讲模式、比较人与人之间的思维方式、询问“我的思维方式是什么”、“分析这个人如何推理”、“认知概况”、“思维模式”、“DHDNA”、“数字 DNA”或想要了解任何文本背后的思想时，可以使用此技能。当用户提供文本并希望更深入地了解作者的推理模式、决策风格或认知特征时也会触发。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:42.0779232Z"
+}

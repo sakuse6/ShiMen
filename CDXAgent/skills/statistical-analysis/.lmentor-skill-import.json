@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "通过测试选择和报告指导统计分析。当您需要帮助为您的数据选择适当的测试、假设检查、功效分析和 APA 格式的结果时使用。最适合学术研究报告、考试选择指导。要以编程方式实现特定模型，请使用 statsmodels。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:25.6509425Z"
+}

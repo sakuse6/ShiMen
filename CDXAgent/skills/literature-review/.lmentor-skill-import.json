@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用多个学术数据库（PubMed、arXiv、bioRxiv、Semantic Sc​​holar 等）进行全面、系统的文献综述。在跨生物医学、科学和技术领域进行系统文献综述、荟萃分析、研究综合或综合文献检索时，应使用此技能。创建专业格式的 Markdown 文档和 PDF，并以多种引文样式（APA、Nature、Vancouver 等）验证引文。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:13.7696654Z"
+}

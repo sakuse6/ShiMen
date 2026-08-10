@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "Python 的统计模型库。当您需要具有详细诊断、残差和推理的特定模型类（OLS、GLM、混合模型、ARIMA）时使用。最适合计量经济学、时间序列、系数表的严格推理。对于 APA 报告的指导统计测试选择，请使用统计分析。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:27.6763173Z"
+}

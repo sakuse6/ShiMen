@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "IBM 量子计算框架。当针对 IBM Quantum 硬件、使用 Qiskit Runtime 处理生产工作负载或需要 IBM 优化工具时使用。最适合 IBM 硬件执行、量子错误缓解和企业量子计算。对于 Google 硬件，请使用 cirq；对于基于梯度的量子机器学习，使用 pennylane；对于开放量子系统模拟，请使用 qutip。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:03.3814494Z"
+}

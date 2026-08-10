@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "为制药和临床研究环境生成专业的临床决策支持 (CDS) 文件，包括患者队列分析（根据结果进行生物标志物分层）和治疗推荐报告（带有决策算法的循证指南）。支持 GRADE 证据分级、统计分析（风险比、生存曲线、瀑布图）、生物标志物集成和法规遵从性。输出针对药物开发、临床研究和证据合成进行优化的可发布 LaTeX/PDF 格式。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:31.7204672Z"
+}

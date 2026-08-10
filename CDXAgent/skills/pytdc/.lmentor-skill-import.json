@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "治疗数据共享。 AI 就绪药物发现数据集（ADME、毒性、DTI）、基准、支架分割、分子预言，用于治疗性 ML 和药理学预测。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:59.5733287Z"
+}

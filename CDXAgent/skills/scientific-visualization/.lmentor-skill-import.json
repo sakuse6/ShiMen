@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于准备发表的人物的元技能。在创建需要多面板布局、重要性注释、错误栏、色盲安全调色板和特定期刊格式（《自然》、《科学》、《细胞》）的期刊提交图表时使用。使用发布样式协调 matplotlib/seaborn/plotly。为了快速探索，直接使用seaborn或plotly。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:15.2814365Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "系统发育树工具包（ETE）。树操作 (Newick/NHX)、进化事件检测、直系同源/旁系同源、NCBI 分类、可视化 (PDF/SVG)，用于系统发育学。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:47.7237771Z"
+}

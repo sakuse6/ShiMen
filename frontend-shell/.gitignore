@@ -1,0 +1,51 @@
+# Build
+/target
+/dist
+
+# Dependencies
+/node_modules
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Graphify (internal tool)
+.graphify
+.graphify_python
+.graphify_cached.json
+.graphify_semantic_new.json
+.graphify_uncached.txt
+graphify-out
+
+# Internal dev docs (local only, not tracked)
+docs/v*/
+docs/superpowers/
+
+# Local screenshots
+*.png
+!src-tauri/icons/*.png
+!src/assets/*.png
+!docs/screenshots/*.png
+
+# Runtime data
+.jishu_hub/
+
+# Claude Code project config
+.claude/
+
+# Gemini local config
+.gemini/
+.kiro/
+.codex
+.opencode
+CLAUDE.md
+AGENTS.md
+run-kiro.cmd
+run-kiro.ps1
+graphify.zh-CN.md

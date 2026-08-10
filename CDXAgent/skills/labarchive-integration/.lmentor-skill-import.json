@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "电子实验室笔记本 API 集成。访问笔记本、管理条目/附件、备份笔记本、与 Protocols.io/Jupyter/REDCap 集成，实现编程式 ELN 工作流程。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:09.7712007Z"
+}

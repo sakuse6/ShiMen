@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "针对速度和规模进行优化的高性能强化学习框架。当您需要快速并行训练、矢量化环境、多代理系统或与游戏环境（Atari、Procgen、NetHack）集成时使用。与标准实现相比，速度提高了 2-10 倍。对于快速原型设计或具有大量文档的标准算法实现，请使用 stable-baselines3。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:50.2325851Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "Google NotebookLM 的自托管开源替代方案，用于人工智能驱动的研究和文档分析。在将研究材料组织到笔记本中、摄取不同的内容源（PDF、视频、音频、网页、Office 文档）、生成 AI 驱动的笔记和摘要、根据研究创建多扬声器播客、使用上下文感知 AI 与文档聊天、使用全文和矢量搜索跨材料搜索或运行自定义内容转换时使用。支持超过 16 个人工智能提供商，包括 OpenAI、Anthropic、Google、Ollama、Groq 和 Mistral，通过自托管提供完整的数据隐私。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:30.0731420Z"
+}

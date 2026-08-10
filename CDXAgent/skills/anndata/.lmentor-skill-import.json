@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "单细胞分析中带注释矩阵的数据结构。在处理 .h5ad 文件或与 scverse 生态系统集成时使用。这是数据格式技巧——分析工作流程使用scanpy；对于概率模型，使用 scvi-tools；对于人口规模查询，请使用 cellxgene-census。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:15.0095739Z"
+}

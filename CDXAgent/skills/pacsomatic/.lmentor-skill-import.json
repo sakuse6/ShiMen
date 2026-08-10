@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于来自 BAM 输入的 nf-core/pacsomatic 匹配肿瘤正常工作流程的操作员工具包。当用户需要验证运行输入、生成符合 pacsomatic 的示例表、准备可重现的 Nextflow 启动工件、本地运行或提交到调度程序 (LSF/Slurm/PBS/SGE) 以及对执行失败进行分类时，请使用此技能。触发运行 pacsomatic、准备启动命令/脚本、执行空运行检查或排除管道启动和调度程序提交错误的请求。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:32.6584028Z"
+}

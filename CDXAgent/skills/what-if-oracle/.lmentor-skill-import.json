@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "通过 4-6 个分支可能性探索（最佳、可能、最差、通配符、逆向、二阶）运行结构化假设情景分析。当用户提出关于不确定的未来、战略分叉、应急计划或在做出决定之前进行压力测试的推测性假设问题时使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:39.1809740Z"
+}

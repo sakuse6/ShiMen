@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "在 Ginkgo Bioworks 云实验室 (cloud.ginkgo.bio) 上提交和管理协议，这是一个基于 Web 的界面，用于在可重新配置自动化推车 (RAC) 上自主执行实验室。当用户想要运行无细胞蛋白质表达（验证或优化）、生成荧光像素艺术或与 Ginkgo Cloud Lab 服务交互时使用。涵盖协议选择、输入准备、定价和订购工作流程。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:59.1185187Z"
+}

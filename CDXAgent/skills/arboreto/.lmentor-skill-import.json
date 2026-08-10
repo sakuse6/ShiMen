@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用可扩展算法（GRNBoost2、GENIE3）从基因表达数据推断基因调控网络 (GRN)。在分析转录组学数据（批量 RNA-seq、单细胞 RNA-seq）时使用，以识别转录因子-靶基因关系和调控相互作用。支持大规模数据集的分布式计算。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:17.7929647Z"
+}

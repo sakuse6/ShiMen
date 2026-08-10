@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于为医疗器械质量管理体系准备 ISO 13485 认证文档的综合工具包。当用户需要 ISO 13485 QMS 文档方面的帮助时使用，包括 (1) 对现有文档进行差距分析，(2) 创建质量手册，(3) 制定所需的程序和工作说明，(4) 准备医疗器械文件，(5) 了解 ISO 13485 要求，或 (6) 识别医疗器械认证缺失的文档。当用户提及医疗器械法规、QMS 认证、FDA QMSR、EU MDR 或需要质量体系文档帮助时也可使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:08.8756739Z"
+}

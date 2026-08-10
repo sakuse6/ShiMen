@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "PyTorch-分子和蛋白质的原生图神经网络。在构建用于药物发现、蛋白质建模或知识图推理的自定义 GNN 架构时使用。最适合定制模型开发、蛋白质特性预测、逆合成。对于预先训练的模型和不同的特征器，使用 deepchem；对于基准数据集，请使用 pytdc。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:30.6541582Z"
+}

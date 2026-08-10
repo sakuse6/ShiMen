@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用parallel-cli 搜索（主要的快速网络搜索）、Parallel Chat API（深度研究）或 Perplexity sonar-pro-search（学术论文搜索）查找当前研究信息。自动将查询路由到最佳后端。用于查找论文、收集研究数据和验证科学信息。注意：查询文本将传输至 api.parallel.ai (PARALLEL_API_KEY)，对于学术搜索，则传输至 openrouter.ai (OPENROUTER_API_KEY)。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:07.3734616Z"
+}

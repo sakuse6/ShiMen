@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "开放量子系统的量子物理模拟库。在研究主方程、Lindblad 动力学、退相干、量子光学或腔 QED 时使用。最适合物理研究、开放系统动力学和教育模拟。不适用于基于电路的量子计算 - 使用 qiskit、cirq 或 pennylane 进行量子算法和硬件执行。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:04.0701373Z"
+}

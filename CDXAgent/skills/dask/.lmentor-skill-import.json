@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "适用于大于 RAM pandas/NumPy 工作流程的分布式计算。当您需要将现有 pandas/NumPy 代码扩展到内存之外或跨集群时使用。最适合并行文件处理、分布式机器学习、与现有 pandas 代码集成。对于单机上的核外分析，请使用 vaex；对于内存速度，请使用极坐标。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:34.5480836Z"
+}

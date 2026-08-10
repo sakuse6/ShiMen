@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 NetworkX 在 Python 中创建、分析和可视化复杂的网络和图形。在处理网络/图形数据结构、计算图形算法（最短路径、中心性、聚类）、检测社区、生成合成网络（随机、无标度、小世界）、读取/写入图形文件格式或绘制网络拓扑时使用。常见应用包括社会、生物、交通和引文网络。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:25.1788229Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 UMAP-learn 进行非线性降维、2D/3D 嵌入、聚类预处理、监督或半监督 UMAP、DensMAP、AlignedUMAP 和参数化 UMAP 工作流程。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:34.5307261Z"
+}

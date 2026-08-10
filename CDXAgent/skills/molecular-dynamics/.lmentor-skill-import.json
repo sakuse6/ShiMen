@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 OpenMM 和 MDAnalysis 运行和分析分子动力学模拟。设置蛋白质/小分子系统，定义力场，运行能量最小化和生产 MD，分析轨迹（RMSD、RMSF、接触图、自由能表面）。用于结构生物学、药物结合和生物物理学。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:23.1069095Z"
+}

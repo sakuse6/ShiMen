@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于 Rust 与 Python 绑定的基因组区间分析的高性能工具包。在处理基因组区域、BED 文件、覆盖轨迹、重叠检测、ML 模型标记化或计算基因组学和机器学习应用程序中的片段分析时使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:02.1784715Z"
+}

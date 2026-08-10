@@ -1,0 +1,32 @@
+# Project-local R package manifest for Lmentor skills.
+# Install with:
+#   Rscript scripts/install-r-packages.R
+
+# CRAN
+ggplot2
+pheatmap
+RColorBrewer
+ggrepel
+tidyverse
+DT
+kableExtra
+rmarkdown
+knitr
+htmlwidgets
+patchwork
+
+# Bioconductor
+DESeq2
+apeglm
+SummarizedExperiment
+tximport
+EnhancedVolcano
+limma
+edgeR
+SingleCellExperiment
+scater
+scran
+BiocParallel
+ComplexHeatmap
+clusterProfiler
+org.Hs.eg.db

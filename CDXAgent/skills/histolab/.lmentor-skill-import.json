@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "轻量级 WSI 切片提取和预处理。用于 H\u0026E 图像的基本载玻片处理、组织检测、平铺提取和染色标准化。最适合简单的管道、数据集准备和基于图块的快速分析。对于高级空间蛋白质组学、多重成像或深度学习管道，请使用 pathml。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:02.9934170Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "具有多种特征器和预构建数据集的分子机器学习。当您需要广泛的特征化选项和 MoleculeNet 基准时，可使用传统 ML 或 GNN 进行属性预测（ADMET、毒性）。最适合使用预先训练的模型、不同的分子表示进行快速实验。对于图优先的 PyTorch 工作流程，请使用 torchdrug；对于基准数据集，请使用 pytdc。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:38.9731517Z"
+}

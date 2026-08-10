@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "对基因列表或排序的基因数据运行通路和基因集富集分析，然后解释结果。当用户拥有一组基因（来自 PyDESeq2/Scanpy 的差异表达基因、CRISPR 筛选命中、聚类标记基因、蛋白质组命中）并想要了解哪些生物途径、GO 术语或基因集被过度表征或富集时，请使用。涵盖过度代表性分析（ORA / Enrichr / Fisher / 超几何）、排名基因集富集分析（GSEA / preranked）、单样本评分（ssGSEA / GSVA）以及通过 gseapy、g:Profiler、Enrichr 库、MSigDB、GO、KEGG、Reactome 和 WikiPathways 进行的功能分析 - 以及基因 ID 映射、选择正确的背景宇宙、多重测试校正、冗余减少、点图/富集图和可出版的表格。将其用于“通路分析”、“富集分析”、“GO 富集”、“KEGG/Reactome 通路”、“GSEA”、“过度表达”、“功能注释”或“我的基因位于哪些通路”。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:38.0988931Z"
+}

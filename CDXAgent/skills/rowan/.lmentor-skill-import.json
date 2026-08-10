@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "Rowan 是一个具有 Python API 的云原生分子建模和药物化学工作流程平台。用于 pKa 和 macropKa 预测、构象异构体和互变异构体集成、对接和类似物对接、蛋白质-配体共折叠、MSA 生成、分子动力学、渗透性、描述符工作流程以及相关的小分子或蛋白质建模任务。非常适合程序化批量筛选、多步骤化学管道以及需要维护本地 HPC/GPU 基础设施的工作流程。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:09.0025574Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "具有类似 scikit-learn 的 API 的可用于生产的强化学习算法（PPO、SAC、DQN、TD3、DDPG、A2C）。用于标准强化学习实验、快速原型设计和记录良好的算法实现。最适合在 Gymnasium 环境中进行单智能体强化学习。对于高性能并行训练、多代理系统或自定义矢量化环境，请改用 pufferlib。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:24.8400493Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "代谢组学的光谱相似性和化合物鉴定。用于比较质谱、计算相似性分数（余弦、修正余弦）以及从谱库中识别未知化合物。最适合代谢物鉴定、光谱匹配、库搜索。对于完整的 LC-MS/MS 蛋白质组学流程，请使用 pyopenms。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:17.5210632Z"
+}

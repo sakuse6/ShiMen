@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "学术研究的综合引文管理。在 Google Scholar 和 PubMed 中搜索论文、提取准确的元数据、验证引文并生成格式正确的 BibTeX 条目。当您需要查找论文、验证引文信息、将 DOI 转换为 BibTeX 或确保科学写作中的参考准确性时，应该使用此技能。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:30.5616454Z"
+}

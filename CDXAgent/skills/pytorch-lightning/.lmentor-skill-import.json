@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "深度学习框架（PyTorch Lightning/闪电包）。将 PyTorch 代码组织到 LightningModules 中，为多 GPU/TPU 配置训练器，实现数据管道、回调、日志记录（W\u0026B、TensorBoard、MLflow）、分布式训练（DDP、FSDP、DeepSpeed），以进行可扩展的神经网络训练。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:01.1721359Z"
+}

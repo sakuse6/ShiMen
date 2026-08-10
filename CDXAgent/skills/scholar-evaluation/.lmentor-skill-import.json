@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 ScholarEval 框架系统地评估学术工作，提供跨研究质量维度的结构化评估，包括问题表述、方法论、分析和写作，并提供定量评分和可行的反馈。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:10.7923712Z"
+}

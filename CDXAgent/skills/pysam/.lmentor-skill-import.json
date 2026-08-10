@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "基因组文件工具包。读/写 SAM/BAM/CRAM 比对、VCF/BCF 变体、FASTA/FASTQ 序列、提取区域、计算覆盖率，用于 NGS 数据处理流程。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:58.7034278Z"
+}

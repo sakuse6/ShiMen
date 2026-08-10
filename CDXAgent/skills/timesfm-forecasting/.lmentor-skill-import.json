@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 Google TimesFM 基础模型进行零样本时间序列预测。适用于任何单变量时间序列（销售、传感器、能源、生命体征、天气），无需训练自定义模型。支持带有点预测和预测间隔的 CSV/DataFrame/array 输入。包括预检系统检查脚本，用于在首次使用前验证 RAM/GPU。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:30.1144699Z"
+}

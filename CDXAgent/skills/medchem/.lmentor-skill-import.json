@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于化合物分类的药物化学过滤器。应用药物相似性规则（Lipinski、Veber、CNS）、结构警报目录（PAINS、NIBR、ChEMBL）、复杂性指标和 medchem 查询语言进行库过滤。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:20.1963171Z"
+}

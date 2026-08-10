@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 Pi（最小的终端编码工具）进行构建和使用。用于安装 Pi、配置提供程序/模型/设置、创建 Pi 技能/扩展/包/主题/提示模板、通过 SDK 嵌入 Pi、通过 RPC 或 JSON 事件流集成、解析会话、开发自定义 Pi 提供程序和 TUI 组件，或使用生态系统包，例如 pi-subagents（委托/编排）、pi-mcp-adapter（MCP 服务器）、pi-interview（交互式表单）和pi-web-access（网络搜索、抓取、视频理解）。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:43.2774802Z"
+}

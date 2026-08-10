@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "与 40 多种生物信息学服务的统一 Python 接口。在具有一致 API 的单个工作流程中查询多个数据库（UniProt、KEGG、ChEMBL、Reactome）时使用。最适合跨数据库分析、跨服务的 ID 映射。对于快速单数据库查找，请使用 gget；对于序列/文件操作，请使用biopython。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:26.5105840Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 CuPy、Numba CUDA、Warp、cuDF、cuML、cuGraph、KvikIO、cuCIM、cuxfilter、cuVS、cuSpatial 和 RAFT 对 Python 代码进行 GPU 加速。每当用户提到 GPU/CUDA/NVIDIA 加速，或想要加速 NumPy、pandas、scikit-learn、scikit-image、NetworkX、GeoPandas 或 Faiss 工作负载时使用。涵盖物理模拟、可微渲染、网格光线投射、粒子系统（DEM/SPH/流体）、矢量/相似性搜索、GPUDirect Storage 文件 IO、交互式仪表板、地理空间分析、医学成像和稀疏特征求解器。当您看到受 CPU 限制的 Python 代码（循环、大型数组、机器学习管道、图形分析、图像处理）时，即使没有明确请求，也可以使用这些代码，这些代码将受益于 GPU 加速。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:31.7818182Z"
+}

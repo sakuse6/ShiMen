@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "综合分子生物学工具包。用于序列操作、文件解析 (FASTA/GenBank/PDB)、系统发育学和程序化 NCBI/PubMed 访问 (Bio.Entrez)。最适合批量处理、定制生物信息学管道、BLAST 自动化。要快速查找，请使用 gget；对于多服务集成，请使用生物服务。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:25.6906695Z"
+}

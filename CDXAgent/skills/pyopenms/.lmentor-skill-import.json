@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "完整的质谱分析平台。用于蛋白质组学和代谢组学工作流程——特征检测、肽/蛋白质鉴定、无标记和同量异位定量、加合物/精确质量注释以及复杂的 LC-MS/MS 管道。支持广泛的文件格式和算法。对于简单的光谱比较和小分子库匹配，请使用 matchms。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:57.9346331Z"
+}

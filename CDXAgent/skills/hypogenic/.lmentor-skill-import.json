@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "自动生成 LLM 驱动的假设并在表格数据集上进行测试。当您想要系统地探索有关经验数据模式的假设（例如，欺骗检测、内容分析）时使用。将文献见解与数据驱动的假设检验相结合。对于手动假设制定，请使用假设生成；对于创意构思，请使用科学头脑风暴法。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:05.2231515Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "通过 REST API 搜索 10 个学术论文数据库，查找研究论文、预印本和学术文章。涵盖 PubMed、PMC（全文）、bioRxiv、medRxiv、arXiv、OpenAlex、Crossref、Semantic Sc​​holar、CORE、Unpaywall。在搜索论文、引文、DOI/PMID 查找、摘要、全文、开放获取、预印本、引文图、作者搜索或任何学术文献查询时使用。在提及任何受支持的数据库或请求（例如“在 X 上查找论文”或“查找此 DOI”）时触发。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:33.3826040Z"
+}

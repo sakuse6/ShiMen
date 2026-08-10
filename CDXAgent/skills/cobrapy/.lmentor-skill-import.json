@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "基于约束的代谢模型（COBRA）。 FBA、FVA、基因敲除、通量采样、SBML 模型，用于系统生物学和代谢工程分析。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:32.9844704Z"
+}

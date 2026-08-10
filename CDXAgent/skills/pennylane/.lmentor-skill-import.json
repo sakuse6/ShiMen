@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "具有自动微分功能的与硬件无关的量子机器学习框架。当通过梯度训练量子电路、构建混合量子经典模型或需要跨 IBM/Google/Rigetti/IonQ 的设备可移植性时使用。最适合变分算法（VQE、QAOA）、量子神经网络以及与 PyTorch 或 JAX 的集成。对于特定于硬件的优化，请使用 qiskit (IBM) 或 cirq (Google)；对于开放量子系统，请使用 qutip。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:40.5293011Z"
+}

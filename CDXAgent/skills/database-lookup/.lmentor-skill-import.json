@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "通过记录的 REST API 确定性查询 78 个公共科学、生物医学、材料科学、监管、金融和人口统计数据库。当端点、过滤器、分页和出处需要明确时，用于对化合物、基因、蛋白质、途径、变体、临床试验、专利、经济指标、结构、天文物体、环境记录或数据库支持的科学事实进行可重复的查找。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:35.8143877Z"
+}

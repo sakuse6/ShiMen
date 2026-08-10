@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于需要 Astropy API 的天文学和天体物理学工作流程的核心 Python 库，包括单位/数量、坐标、FITS I/O、表格、时间系统、WCS 和宇宙学。在使用 Astropy 实现或调试天文数据分析代码时使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:19.0966516Z"
+}

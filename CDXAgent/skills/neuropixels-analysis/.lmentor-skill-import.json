@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 SpikeInterface 端到端分析 Neuropixels 细胞外记录。涵盖加载 SpikeGLX/Open Ephys/NWB 数据、预处理、漂移/运动校正、Kilosort4（和 CPU）尖峰排序、质量指标和单元管理（基于阈值、基于模型的 UnitRefine 和 AI 辅助视觉审查）。在处理 Neuropixels 1.0/2.0 记录、尖峰排序或细胞外电生理学分析时使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:27.0665372Z"
+}

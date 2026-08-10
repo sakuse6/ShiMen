@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "解析 FCS（流式细胞术标准）文件 v2.0-3.1。将事件提取为 NumPy 数组，读取元数据/通道，转换为 CSV/DataFrame，用于流式细胞术数据预处理。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:51.3894511Z"
+}

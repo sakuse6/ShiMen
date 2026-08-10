@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "当您需要在 Python 中进行精确的符号数学时使用 - 代数、微积分、方程求解、符号线性代数或通过lambdaify/LaTeX生成代码。当浮点近似值足够时，首选 NumPy 或 SciPy。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:28.7984667Z"
+}

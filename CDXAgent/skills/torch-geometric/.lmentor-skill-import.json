@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于图神经网络的 PyTorch Geometric (PyG) — 节点/链接/图分类、消息传递（GCN、GAT、GraphSAGE、GIN）、异构图、邻居采样和自定义数据集。使用 torch_geometric 时使用，不适用于一般 NetworkX 分析或非图形 PyTorch 模型。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:31.8738660Z"
+}

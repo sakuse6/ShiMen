@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "通过屏幕管观察用户的屏幕，检测重复的研究工作流程，将其与现有的科学代理技能进行匹配，并为尚未涵盖的模式起草新技能（或链接现有技能的组合配方）。当用户要求分析他们最近的工作并根据他们的实际工作提出技能时使用。需要在端口 3030 上本地运行 screenpipe 守护进程 (https://github.com/screenpipe/screenpipe) - 该技能没有其他数据源，如果无法访问 screenpipe，将拒绝运行。所有检测都在本地运行；只有经过编辑的集群摘要才能达到法学硕士学位。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:21.3423590Z"
+}

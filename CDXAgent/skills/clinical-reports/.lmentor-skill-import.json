@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "撰写全面的临床报告，包括病例报告（CARE 指南）、诊断报告（放射学/病理学/实验室）、临床试验报告（ICH-E3、SAE、CSR）和患者文件（SOAP、H\u0026P、出院小结）。全面支持模板、法规遵从性（HIPAA、FDA、ICH-GCP）和验证工具。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:32.4647469Z"
+}

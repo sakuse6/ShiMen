@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "端到端批量RNA-seq协调器——通过QC和修剪（FastQC、fastp/Trim Galore）、比对和定量（STAR、Salmon、featureCounts）获取原始FASTQ读数，组装基因级计数矩阵，然后交给差异表达（pydeseq2）、通路/GSEA富集（通路富集）和出版物数据（科学可视化）。每当用户拥有批量 RNA 测序读数或定量输出并想要完整、可重复的差异表达工作流程时使用 - 例如“分析我的 RNA-seq”、“FASTQ 到 DESeq2”、“运行 nf-core/rnaseq”、“STAR/Salmon 定量”、“为 DESeq2 构建计数矩阵”或“从读数转到差异表达基因和富集途径”。 nf-core/rnaseq (Nextflow) 路径和独立 STAR/Salmon 路径之间的路由，涵盖实验设计、搁浅和 QC 门。对于单细胞 RNA-seq，请使用 scanpy 技能。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:27.9595236Z"
+}

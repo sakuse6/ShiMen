@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "用于 Python ETL、分析和 pandas 迁移的高性能 DataFrame 库。用于基于表达式的数据操作，具有惰性查询优化、并行执行、流式核外处理、Arrow 互操作性和可选的 GPU 执行。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:44.4242403Z"
+}

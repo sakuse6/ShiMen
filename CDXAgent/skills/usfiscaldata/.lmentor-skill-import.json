@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "查询美国财政部财政数据 REST API 以获取联邦财务数据。无需 API 密钥。用于国债（Debt to the Penny）、每日财政报表、每月财政报表、国债拍卖、利率、外汇汇率、储蓄债券或美国政府收入和支出统计。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:35.8410963Z"
+}

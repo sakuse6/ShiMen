@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "该技能应用于时间序列机器学习任务，包括分类、回归、聚类、预测、异常检测、分割和相似性搜索。当处理时态数据、顺序模式或时间索引观察需要标准 ML 方法之外的专用算法时使用。特别适合使用 scikit-learn 兼容 API 进行单变量和多变量时间序列分析。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:13.9562119Z"
+}

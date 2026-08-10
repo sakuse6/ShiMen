@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "RDKit 的 Pythonic 包装器，具有简化的界面和合理的默认值。标准药物发现的首选，包括 SMILES 解析、标准化、描述符、指纹、聚类、3D 构象异构体、并行处理。返回本机 rdkit.Chem.Mol 对象。对于高级控制或自定义参数，直接使用rdkit。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:37.8168119Z"
+}

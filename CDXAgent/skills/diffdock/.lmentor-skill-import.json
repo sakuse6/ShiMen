@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "DiffDock 和 DiffDock-L 分子对接。用于根据 PDB 或序列加上 SMILES/SDF/MOL2 进行蛋白质小分子姿势预测、批量对接、虚拟筛选和姿势置信度解释。不适用于结合亲和力预测。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:43.3483247Z"
+}

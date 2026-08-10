@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "访问主要科学出版场所（Nature、Science、PLOS、IEEE、ACM）、学术会议（NeurIPS、ICML、CVPR、CHI）、研究海报和资助提案（NSF、NIH、DOE、DARPA）的全面 LaTeX 模板、格式要求和提交指南。在准备期刊投稿、会议论文、研究海报或资助提案的手稿并需要特定于场地的格式要求和模板时，应使用此技能。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:37.7779656Z"
+}

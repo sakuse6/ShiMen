@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "查询精准医学知识图（PrimeKG）以获取多尺度生物数据，包括基因、药物、疾病、表型等。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:47.9867861Z"
+}

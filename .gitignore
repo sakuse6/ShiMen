@@ -1,0 +1,41 @@
+# Local runtime state and credentials
+CDXAgent/auth.json
+CDXAgent/sessions/
+CDXAgent/archived_sessions/
+CDXAgent/session_index.jsonl
+CDXAgent/lmentor-bridge-state.json
+CDXAgent/lmentor-runtime/
+CDXAgent/sqlite/
+logs/
+frontend-shell/session_files/
+.lmentor/
+
+# Local environments and generated release artifacts
+.venv/
+.Rlib/
+node_modules/
+frontend-shell/node_modules/
+frontend-shell/dist/
+.packaging/
+build/
+.packaging-tools/
+.codex-capture-home/
+.idea/
+.tmp/
+.tmp-artifacts/
+
+# Downloaded runtimes and transient plugin caches
+CDXAgent/bin/
+CDXAgent/codex-path/
+CDXAgent/codex-resources/
+CDXAgent/.tmp/
+CDXAgent/tmp/
+
+# Legacy local content no longer used by the product
+1.xlsx
+
+# Local editor and diagnostic output
+.vscode/
+*.log
+*.pyc
+__pycache__/

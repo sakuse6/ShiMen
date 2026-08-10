@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 scVelo 进行 RNA 速度分析。根据未剪接/剪接 mRNA 动力学估计细胞状态转变，推断轨迹方向，计算潜伏时间，并识别单细胞 RNA-seq 数据中的驱动基因。补充了用于轨迹推断的 Scanpy/scVI 工具。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:20.6595252Z"
+}

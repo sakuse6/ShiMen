@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "标准单细胞 RNA-seq 分析流程。用于 QC、归一化、降维 (PCA/UMAP/t-SNE)、聚类、差异表达、可视化，以及将 R 友好的单细胞格式（例如 Seurat 或 SingleCellExperiment RDS 文件）转换为 h5ad for Scanpy。最适合使用已建立的工作流程进行探索性 scRNA-seq 分析。对于深度学习模型，请使用 scvi-tools；对于数据格式问题，请使用 anndata。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:10.0666576Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "创建、编辑、分析或转换 Excel 电子表格（.xlsx、.xlsm），其中工作簿文件是主要交付内容。用于公式、格式设置、财务模型、多表工作簿以及导出到 Excel 的表格清理。当用户想要电子表格输出时，也适用于 .csv/.tsv。请勿用于 Word 文档、HTML 报告、独立 Python 脚本、数据库管道或 Google Sheets API 工作。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:39.9702173Z"
+}

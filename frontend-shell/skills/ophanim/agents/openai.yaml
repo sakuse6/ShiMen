@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ophanim"
+  short_description: "Generate bounded conversation mind maps with fingerprints"
+  default_prompt: "Use $ophanim to turn the bounded conversation segment into a precise mind map."

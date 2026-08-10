@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "当用户在生物学、化学、物理学、天文学、气候、基因组学、材料、医学、生态学、能源、工程、数学、药物发现、蛋白质设计、天气建模、定理证明、单细胞或 PDE 求解等科学领域进行 AI/ML 工作时使用。 Hugging Science 是科学数据集、模型、博客文章和互动空间的精选目录。此技能有助于通过“数据集”、“转换器”、HF 推理 API、“gradio_client”和方法引用发现和使用资源。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:04.4153099Z"
+}

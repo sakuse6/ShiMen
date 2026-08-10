@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "根据观察形成结构化假设。当您有实验观察或数据并且需要制定可检验的假设和预测、提出机制并设计实验来测试它们时使用。遵循科学方法框架。对于开放式构思，请使用科学头脑风暴法；对于数据集上的自动化 LLM 驱动的假设检验，使用 lowogenic。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:06.2848180Z"
+}

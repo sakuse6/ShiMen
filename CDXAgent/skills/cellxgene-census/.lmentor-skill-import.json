@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "以编程方式查询 CZ CELLxGENE Census 以获取版本化的公共单细胞和空间转录组数据。当您需要群体规模的细胞元数据、基因表达切片、普查摘要计数、源 H5AD URI/下载、嵌入、空间普查数据或跨生物体、组织、疾病、检测和细胞类型的参考图集比较时使用。要分析您自己的本地单细胞数据，请使用 scanpy、annadata 或 scvi-tools。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:28.7584752Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "对 20 多个生物信息学数据库进行快速 CLI/Python 查询。用于快速查找：基因信息、BLAST/BLAT、病毒序列下载、AlphaFold 结构、富集分析、OpenTargets、COSMIC、CELLxGENE 和 8cube 小鼠特异性/表达数据。最适合交互式探索和简单查询。对于批处理或高级 BLAST，请使用 biopython；对于多数据库Python工作流程，使用bioservices。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:58.3855177Z"
+}

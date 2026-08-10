@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 pyzotero Python 客户端与 Zotero 参考管理库交互。通过 Zotero Web API v3 检索、创建、更新和删除项目、集合、标签和附件。以编程方式使用 Zotero 图书馆、管理书目参考、导出引文、搜索图书馆内容、上传 PDF 附件或构建与 Zotero 集成的研究自动化工作流程时，请使用此技能。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:02.6216752Z"
+}

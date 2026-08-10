@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用空间文本和边界框解析本地文档和 PDF。用于从 PDF、DOCX、Office 文件和图像中提取文本；扫描件的 OCR 识别； RAG 的布局保留 JSON；批量摄取纸质文件夹；或多模式代理的页面屏幕截图 - 即使用户没有命名 liteparse。当您需要 bbox、快速本地解析或 PNG 页面渲染时，优于 MarkItDown；更喜欢合并/拆分/表单的 pdf 技能。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:12.8630312Z"
+}

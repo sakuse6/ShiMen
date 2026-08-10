@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 PyDESeq2 对批量 RNA 序列进行差异基因表达分析，包括公式设计、Wald 测试、FDR 校正、LFC 收缩和结果可视化。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:51.7900635Z"
+}

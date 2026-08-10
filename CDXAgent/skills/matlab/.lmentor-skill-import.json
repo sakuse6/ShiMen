@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "MATLAB 和 GNU Octave 数值计算，用于矩阵运算、数据分析、可视化和科学计算。在编写用于线性代数、信号处理、图像处理、微分方程、优化、统计或创建科学可视化的 MATLAB/Octave 脚本时使用。当用户需要有关 MATLAB 语法、函数的帮助或想要在 MATLAB 和 Python 代码之间进行转换时，也可使用。脚本可以使用 MATLAB 或开源 GNU Octave 解释器执行。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:18.4273021Z"
+}

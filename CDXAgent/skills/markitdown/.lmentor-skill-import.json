@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "将文件和 Office 文档转换为 Markdown。支持 PDF、DOCX、PPTX、XLSX、图像（带 OCR）、音频（带转录）、HTML、CSV、JSON、XML、ZIP、YouTube URL、EPub 等。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:16.6905918Z"
+}

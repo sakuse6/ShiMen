@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "Polars DataFrames 上的高性能基因组间隔操作和生物信息学文件 I/O。 BED/VCF/BAM/GFF 间隔的重叠、最近、合并、覆盖、补充、减去。流媒体、云原生、更快的 Bioframe 替代方案。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:45.2080626Z"
+}

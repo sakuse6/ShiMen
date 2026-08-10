@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "端到端构建、运行和调试 Nextflow 数据管道和 nf-core 工作流程。每当用户提到 Nextflow、nf-core、.nf 文件、nextflow.config、DSL2、进程/通道/操作符、示例表或想要运行社区管道（例如 nf-core/rnaseq、nf-core/sarek）、使用 nf-test 编写或测试模块/子工作流、配置执行器/容器（Docker、Singularity/Apptainer、Conda、Wave）、将工作流程扩展为HPC/SLURM 或云（AWS Batch、Google Batch、Azure、Kubernetes），或调试失败/恢复运行。即使用户没有说出“Nextflow”这个词，也请确保将此技能用于任何可重复的科学/生物信息学工作流程工作，以及创作符合 nf-core 的管道、模块、配置和 linting。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:27.8570491Z"
+}

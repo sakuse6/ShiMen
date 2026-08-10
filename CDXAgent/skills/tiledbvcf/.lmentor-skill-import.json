@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 TileDB 高效存储和检索基因组变异数据。可扩展的 VCF/BCF 摄取、增量样本添加、压缩存储、并行查询和群体基因组学导出功能。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:29.4119653Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "与供应商无关的实验室自动化框架。当控制多种设备类型（Hamilton、Tecan、Opentron、读板机、泵）或需要跨不同供应商进行统一编程时使用。最适合复杂的工作流程、多供应商设置、模拟。对于具有官方 API 的仅限 Opentrons 的协议，opentrons 集成可能更简单。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:55.1199508Z"
+}

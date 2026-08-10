@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "材料科学工具包。晶体结构（CIF、POSCAR）、相图、能带结构、DOS、材料项目集成、格式转换，用于计算材料科学。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:55.9487935Z"
+}

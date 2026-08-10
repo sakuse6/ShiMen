@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "通过 BGPT MCP 服务器搜索科学论文并检索从全文研究中提取的结构化实验数据。每篇论文返回 25 个以上字段，包括方法、结果、样本量、质量分数和结论。用于文献综述、证据综合以及查找仅在摘要中无法获得的实验细节。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:23.2691889Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 Arbor 论文中的假设树细化 (HTR)，根据目标和评估器自主改进真实工件（代码、训练配方、代理工具、数据管道、提示）。每当有人想要在多次实验中迭代优化某些东西而不过度拟合时，就可以使用它——例如“提高我的模型的评估分数”、“改进这个代理/线束”、“调整这个管道”、“在这个基准上击败基线”、“对方法进行搜索并保持最好的”、“进行 MLE 基准/Kaggle 式优化”，或任何长期的“让这个工件变得更好，而不仅仅是记住开发集”任务。即使用户没有说“Arbor”或“假设树”，但描述了重复的实验和评估循环、对竞争想法的分支探索或担心开发/测试差距，也会触发它。将 Claude 本身作为协调器与独立的 git 工作树中的子代理执行器一起运行；对于独立的“arbor”CLI 工具，请参阅references/arbor-upstream.md。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:16.6604226Z"
+}

@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "查询癌症依赖性图谱 (DepMap)，了解癌细胞系基因依赖性评分 (CRISPR Chronos)、药物敏感性数据和基因效应概况。用于识别癌症特定的脆弱性、合成致死相互作用以及验证肿瘤药物靶点。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:40.6621162Z"
+}

@@ -1,0 +1,88 @@
+﻿# Lmentor initial runtime configuration template.
+# Configure an API key and model from Provider Management after launch.
+model = ""
+approval_policy = "never"
+sandbox_mode = "danger-full-access"
+model_provider = "linkbus"
+provider_id = "linkbus"
+model_reasoning_effort = "medium"
+review_model = ""
+models = []
+
+["model_providers"]
+["model_providers"."linkbus"]
+name = "LinkBus"
+provider_id = "linkbus"
+wire_api = "responses"
+protocol = "responses"
+mode = "pure_api"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "https://www.linkbus.net/v1"
+
+["model_providers"."lingshi"]
+name = "Lingshi"
+provider_id = "lingshi"
+wire_api = "responses"
+protocol = "responses"
+mode = "pure_api"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "https://api.lingshi.chat/v1"
+
+["model_providers"."Infinity"]
+name = "Infinity"
+provider_id = "Infinity"
+wire_api = "responses"
+protocol = "responses"
+mode = "mixed_api"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "http://192.69.93.161:8080"
+
+["model_providers"."juapi"]
+name = "JuAPI"
+provider_id = "juapi"
+wire_api = "responses"
+protocol = "responses"
+mode = "pure_api"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "https://www.juapi.net/v1"
+
+["model_providers"."qiniu"]
+name = "Qiniu"
+provider_id = "qiniu"
+wire_api = "responses"
+protocol = "responses"
+mode = "aggregate"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "https://api.qnaigc.com"
+
+["model_providers"."aionly"]
+name = "AIOnly"
+provider_id = "aionly"
+wire_api = "responses"
+protocol = "responses"
+mode = "aggregate"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "https://api.aiionly.com"
+
+["model_providers"."siliconflow"]
+name = "SiliconFlow"
+provider_id = "siliconflow"
+wire_api = "responses"
+protocol = "responses"
+mode = "aggregate"
+model = ""
+models = []
+reasoning_effort = "medium"
+base_url = "https://api.siliconflow.cn"

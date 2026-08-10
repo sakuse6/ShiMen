@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "使用 Nano Banana Pro AI 和智能迭代细化创建专业的信息图表。使用 Gemini 3 Pro 进行质量审核。集成研究查找和网络搜索以获取准确的数据。支持 10 种信息图表类型、8 种行业样式和色盲安全调色板。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:08.0240471Z"
+}

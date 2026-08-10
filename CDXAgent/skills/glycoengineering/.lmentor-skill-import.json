@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "分析和设计蛋白质糖基化。扫描 N-糖基化序列 (N-X-S/T) 的序列，预测 O-糖基化热点，并访问精选的糖工程工具（NetOGlyc、GlycoShield、GlycoWorkbench）。用于糖蛋白工程、治疗性抗体优化和疫苗设计。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:00.3605491Z"
+}

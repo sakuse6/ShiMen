@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "Hugging Face Transformers 用于加载 Hub 模型、运行管道推理、文本生成以及针对 NLP、视觉、音频和多模式任务的 Trainer 微调。在使用 AutoModel、管道、分词器或 TrainingArguments 时使用，不适用于 Transformers 库之外的一般 ML。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:38:32.4547346Z"
+}

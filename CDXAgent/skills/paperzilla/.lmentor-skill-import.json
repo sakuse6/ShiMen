@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "在 Paperzilla 中与您的代理讨论项目、建议和规范论文。当用户询问最近的项目推荐、规范论文详细信息、基于 Markdown 的摘要、推荐反馈、提要导出或 Atom 提要 URL 时使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:34.4191800Z"
+}

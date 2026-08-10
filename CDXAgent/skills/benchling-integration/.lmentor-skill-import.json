@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "针对注册表实体、清单、ELN 条目、工作流程、基准应用程序和数据仓库查询的基准 Python SDK 和 REST API 集成。使用 benchling-sdk 或 v2 API 自动化实验室数据时使用。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:22.2960986Z"
+}

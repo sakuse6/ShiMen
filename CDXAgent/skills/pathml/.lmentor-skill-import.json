@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "全功能的计算病理学工具包。用于高级 WSI 分析，包括多重免疫荧光（CODEX、Vectra）、细胞核分割、组织图构建和病理数据的 ML 模型训练。支持 160 多种幻灯片格式。对于从 H\u0026E 载玻片中进行简单的切片提取，histolab 可能更简单。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:37:37.1926070Z"
+}

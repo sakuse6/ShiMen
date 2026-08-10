@@ -1,0 +1,7 @@
+{
+    "source":  "kdense-scientific-agent-skills",
+    "source_description":  "K-Dense 科学智能体技能库",
+    "zh_description":  "由 Exa 提供支持的 Web 工具包，针对科学和技术内容进行了调整。当用户需要搜索 Web 或获取/提取 URL 内容时，请使用此技能。涵盖：网络搜索（语义查找、研究、当前信息 - 以及可选的研究论文类别和学术领域过滤）和 URL 提取（批量获取页面、文章、学术 PDF）。当用户想要通过类别=研究论文进行高质量搜索或学术过滤时，可以使用此技能来执行与网络相关的任务。触发搜索、查找、获取页面或提取文章的请求。",
+    "zh_description_language":  "zh-CN",
+    "translated_at":  "2026-07-30T07:36:48.9387775Z"
+}
