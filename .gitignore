@@ -6,6 +6,11 @@ CDXAgent/session_index.jsonl
 CDXAgent/lmentor-bridge-state.json
 CDXAgent/lmentor-runtime/
 CDXAgent/sqlite/
+CDXAgent/*.sqlite
+CDXAgent/*.sqlite-shm
+CDXAgent/*.sqlite-wal
+CDXAgent/installation_id
+CDXAgent/*.bak
 logs/
 frontend-shell/session_files/
 .lmentor/
