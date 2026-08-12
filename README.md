@@ -1719,6 +1719,12 @@ $env:R_LIBS_USER
 不要提供真实 API Key、认证文件或未授权数据。
 
 ---
+微信软文连接：https://mp.weixin.qq.com/s/UkGasEeGegA8qNYnPqaa-A
+
+测试QQ群（目前为alpha测试版本，并非正式版）：
+
+<img width="525" height="668" alt="7b5c1e19-7b75-4814-b9fa-f04190cda159" src="https://github.com/user-attachments/assets/0580f417-33a6-424e-a742-3f8e691b5022" />
+
 
 ## 许可证
 
