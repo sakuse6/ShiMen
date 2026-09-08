@@ -1,0 +1,8 @@
+﻿Lmentor portable build
+
+1. Double-click Lmentor.exe to launch the app.
+2. CDXAgent\\config.toml, auth.json, and skills remain outside the exe in this folder.
+3. core\\Lmentor-core.exe is the packed runtime launched by Lmentor.exe.
+4. CDXAgent stays external by design so model config and skills remain editable.
+5. Python and Node.js are checked by the installer. Optional analysis environments can be added separately.
+6. Rebuild from source with scripts\\build-portable-exe.ps1.

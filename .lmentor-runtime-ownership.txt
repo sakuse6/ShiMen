@@ -1,0 +1,2 @@
+python_installed_by_lmentor=false
+python_home=C:\Users\A\AppData\Local\Programs\Python\Python311
