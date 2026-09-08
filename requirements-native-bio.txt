@@ -1,6 +1,0 @@
-# Optional native bioinformatics bindings.
-# They require WSL/Conda or a Windows C/C++ and htslib build toolchain, because
-# PyPI does not publish compatible Windows wheels for the current toolchain.
-pysam>=0.23,<1
-cyvcf2>=0.31,<1
-scrublet>=0.2.3,<1
