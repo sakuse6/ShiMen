@@ -1,46 +1,19 @@
-# Local runtime state and credentials
+# Local identity, credentials, and mutable runtime state.
 CDXAgent/auth.json
 CDXAgent/sessions/
 CDXAgent/archived_sessions/
-CDXAgent/session_index.jsonl
-CDXAgent/lmentor-bridge-state.json
-CDXAgent/lmentor-runtime/
-CDXAgent/sqlite/
-CDXAgent/*.sqlite
-CDXAgent/*.sqlite-shm
-CDXAgent/*.sqlite-wal
-CDXAgent/installation_id
-CDXAgent/*.bak
-logs/
-frontend-shell/session_files/
-.lmentor/
-
-# Local environments and generated release artifacts
-.venv/
-.Rlib/
-node_modules/
-frontend-shell/node_modules/
-frontend-shell/dist/
-.packaging/
-build/
-.packaging-tools/
-.codex-capture-home/
-.idea/
-.tmp/
-.tmp-artifacts/
-
-# Downloaded runtimes and transient plugin caches
-CDXAgent/bin/
-CDXAgent/codex-path/
-CDXAgent/codex-resources/
-CDXAgent/.tmp/
+CDXAgent/logs/
 CDXAgent/tmp/
+CDXAgent/lmentor-bridge-state.json
+logs/
+.Rlib/
+.lmentor-runtime-ownership.txt
+.publish-log/
 
-# Legacy local content no longer used by the product
-1.xlsx
+# Per-machine skill and environment overrides.
+**/*.env
+**/__pycache__/
+**/*.py[cod]
 
-# Local editor and diagnostic output
-.vscode/
-*.log
-*.pyc
-__pycache__/
+# Codex runtime is distributed separately and must not be committed to public Git history.
+CDXAgent/bin/codex.exe
