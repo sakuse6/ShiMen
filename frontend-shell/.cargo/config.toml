@@ -1,2 +1,0 @@
-[target.x86_64-pc-windows-gnu]
-# Keep the linker portable: Cargo will resolve gcc.exe from PATH when this target is used.
